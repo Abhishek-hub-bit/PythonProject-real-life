@@ -1,4 +1,4 @@
-ipywidgets
+ipywidgets==
 notebook
 ensure
 py-youtube
@@ -9,3 +9,4 @@ tox
 black
 flake8
 mypy
+-e .
