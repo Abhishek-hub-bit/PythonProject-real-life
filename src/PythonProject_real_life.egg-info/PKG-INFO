@@ -1,0 +1,41 @@
+Metadata-Version: 2.4
+Name: PythonProject-real-life
+Version: 0.0.1
+Summary: A python package for real life project structure
+Home-page: https://github.com/Abhishek-kumar7061/PythonProject-real-life
+Author: Abhishek-kumar7061
+Author-email: abhishekkumar7061@gmail.com
+Project-URL: Bug Tracker, https://github.com/Abhishek-kumar7061/PythonProject-real-life/issues
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Classifier: [options]
+Classifier: install_requires =
+Classifier: ensure==1.0.2
+Classifier: py-youtube==1.1.7
+Classifier: python_requires = >=3.7
+Classifier: [options.extras_require]
+Classifier: testing=
+Classifier: pytest>=7.1.3
+Classifier: mypy>=0.971
+Classifier: flake8>=5.0.4
+Classifier: tox>=3.25.1
+Classifier: black>=22.8.0
+Classifier: [options.package_data]
+Classifier: PythonProject-real-life =py.typed
+Classifier: [flake8]
+Classifier: max-line-length = 160
+Classifier: exclude=__init__.py
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+#Pythonproject-real-life package

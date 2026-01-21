@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/PythonProject-real-life/__init__.py
+src/PythonProject_real_life.egg-info/PKG-INFO
+src/PythonProject_real_life.egg-info/SOURCES.txt
+src/PythonProject_real_life.egg-info/dependency_links.txt
+src/PythonProject_real_life.egg-info/top_level.txt

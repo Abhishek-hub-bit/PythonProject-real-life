@@ -1,7 +1,7 @@
-ipywidgets==
-notebook
-ensure
-py-youtube
+ipywidgets>=8.0.0
+notebook>=7.0.0
+ensure>=1.0.2
+py-youtube>=1.1.7
 
 #dev requiremnet
 pytest
